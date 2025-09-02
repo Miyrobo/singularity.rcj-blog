@@ -1,2 +1,1 @@
-# singularity.rcj-blog
-RoboCupJunior 情報公開ブログ
+# RoboCupJunior 情報公開ブログ
